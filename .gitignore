@@ -4,6 +4,7 @@
 
 .DS_Store
 GoogleService-Info.plist
+ChatDemo/GoogleService-Info.plist
 
 ## User settings
 xcuserdata/
